@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vestibular-ufrgs-llm"
+version = "0.1.0"
+description = "A project to process the Vestibular da UFRGS test using a language model."
+authors = ["Your Name <youremail@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pdfplumber = "^0.5.28"
+requests = "^2.26.0"
+openai = "^0.11.0"  # or any other LLM library you plan to use
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
