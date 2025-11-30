@@ -44,7 +44,6 @@ venv.bak/
 .env.*.local
 
 # Test outputs
-*.json
 !pyproject.toml
 test_output/
 output/

@@ -1,0 +1,232 @@
+{
+  "provas_2024": {
+    "estatisticas": {
+      "portugues": {
+        "media": 9.5815,
+        "desvio_padrao": 2.3696,
+        "escores": [
+          { "acertos": 0, "ep": 170.15 },
+          { "acertos": 1, "ep": 207.87 },
+          { "acertos": 2, "ep": 245.58 },
+          { "acertos": 3, "ep": 283.29 },
+          { "acertos": 4, "ep": 321.01 },
+          { "acertos": 5, "ep": 358.72 },
+          { "acertos": 6, "ep": 396.43 },
+          { "acertos": 7, "ep": 434.15 },
+          { "acertos": 8, "ep": 471.86 },
+          { "acertos": 9, "ep": 509.57 },
+          { "acertos": 10, "ep": 547.28 },
+          { "acertos": 11, "ep": 585.00 },
+          { "acertos": 12, "ep": 622.71 },
+          { "acertos": 13, "ep": 660.42 },
+          { "acertos": 14, "ep": 698.14 },
+          { "acertos": 15, "ep": 735.85 }
+        ]
+      },
+      "literatura": {
+        "media": 8.5644,
+        "desvio_padrao": 3.0594,
+        "escores": [
+          { "acertos": 0, "ep": 211.22 },
+          { "acertos": 1, "ep": 249.20 },
+          { "acertos": 2, "ep": 287.18 },
+          { "acertos": 3, "ep": 325.16 },
+          { "acertos": 4, "ep": 363.14 },
+          { "acertos": 5, "ep": 401.12 },
+          { "acertos": 6, "ep": 439.10 },
+          { "acertos": 7, "ep": 477.08 },
+          { "acertos": 8, "ep": 515.06 },
+          { "acertos": 9, "ep": 553.03 },
+          { "acertos": 10, "ep": 591.01 },
+          { "acertos": 11, "ep": 628.99 },
+          { "acertos": 12, "ep": 666.97 },
+          { "acertos": 13, "ep": 704.95 },
+          { "acertos": 14, "ep": 742.93 },
+          { "acertos": 15, "ep": 780.91 }
+        ]
+      },
+      "historia": {
+        "media": 7.6036,
+        "desvio_padrao": 2.633,
+        "escores": [
+          { "acertos": 0, "ep": 289.43 },
+          { "acertos": 1, "ep": 325.62 },
+          { "acertos": 2, "ep": 361.82 },
+          { "acertos": 3, "ep": 398.02 },
+          { "acertos": 4, "ep": 434.22 },
+          { "acertos": 5, "ep": 470.42 },
+          { "acertos": 6, "ep": 506.61 },
+          { "acertos": 7, "ep": 542.81 },
+          { "acertos": 8, "ep": 579.01 },
+          { "acertos": 9, "ep": 615.21 },
+          { "acertos": 10, "ep": 651.40 },
+          { "acertos": 11, "ep": 687.60 },
+          { "acertos": 12, "ep": 723.80 },
+          { "acertos": 13, "ep": 760.00 },
+          { "acertos": 14, "ep": 796.20 },
+          { "acertos": 15, "ep": 832.39 }
+        ]
+      },
+      "matematica": {
+        "media": 5.3935,
+        "desvio_padrao": 2.5637,
+        "escores": [
+          { "acertos": 0, "ep": 289.62 },
+          { "acertos": 1, "ep": 328.63 },
+          { "acertos": 2, "ep": 367.63 },
+          { "acertos": 3, "ep": 406.64 },
+          { "acertos": 4, "ep": 445.64 },
+          { "acertos": 5, "ep": 484.65 },
+          { "acertos": 6, "ep": 523.66 },
+          { "acertos": 7, "ep": 562.66 },
+          { "acertos": 8, "ep": 601.67 },
+          { "acertos": 9, "ep": 640.68 },
+          { "acertos": 10, "ep": 679.68 },
+          { "acertos": 11, "ep": 718.69 },
+          { "acertos": 12, "ep": 757.69 },
+          { "acertos": 13, "ep": 796.70 },
+          { "acertos": 14, "ep": 835.71 },
+          { "acertos": 15, "ep": 874.71 }
+        ]
+      },
+      "geografia": {
+        "media": 7.1512,
+        "desvio_padrao": 2.6252,
+        "escores": [
+          { "acertos": 0, "ep": 227.59 },
+          { "acertos": 1, "ep": 265.69 },
+          { "acertos": 2, "ep": 303.78 },
+          { "acertos": 3, "ep": 341.87 },
+          { "acertos": 4, "ep": 379.96 },
+          { "acertos": 5, "ep": 418.06 },
+          { "acertos": 6, "ep": 456.15 },
+          { "acertos": 7, "ep": 494.24 },
+          { "acertos": 8, "ep": 532.33 },
+          { "acertos": 9, "ep": 570.43 },
+          { "acertos": 10, "ep": 608.52 },
+          { "acertos": 11, "ep": 646.61 },
+          { "acertos": 12, "ep": 684.70 },
+          { "acertos": 13, "ep": 722.79 },
+          { "acertos": 14, "ep": 760.89 },
+          { "acertos": 15, "ep": 798.98 }
+        ]
+      },
+      "biologia": {
+        "media": 5.8274,
+        "desvio_padrao": 2.463,
+        "escores": [
+          { "acertos": 0, "ep": 263.40 },
+          { "acertos": 1, "ep": 304.00 },
+          { "acertos": 2, "ep": 344.60 },
+          { "acertos": 3, "ep": 385.21 },
+          { "acertos": 4, "ep": 425.81 },
+          { "acertos": 5, "ep": 466.41 },
+          { "acertos": 6, "ep": 507.01 },
+          { "acertos": 7, "ep": 547.61 },
+          { "acertos": 8, "ep": 588.21 },
+          { "acertos": 9, "ep": 628.81 },
+          { "acertos": 10, "ep": 669.41 },
+          { "acertos": 11, "ep": 710.01 },
+          { "acertos": 12, "ep": 750.61 },
+          { "acertos": 13, "ep": 791.21 },
+          { "acertos": 14, "ep": 831.81 },
+          { "acertos": 15, "ep": 872.42 }
+        ]
+      },
+      "fisica": {
+        "media": 4.4384,
+        "desvio_padrao": 2.4054,
+        "escores": [
+          { "acertos": 0, "ep": 315.48 },
+          { "acertos": 1, "ep": 357.05 },
+          { "acertos": 2, "ep": 398.63 },
+          { "acertos": 3, "ep": 440.20 },
+          { "acertos": 4, "ep": 481.77 },
+          { "acertos": 5, "ep": 523.35 },
+          { "acertos": 6, "ep": 564.92 },
+          { "acertos": 7, "ep": 606.49 },
+          { "acertos": 8, "ep": 648.07 },
+          { "acertos": 9, "ep": 689.64 },
+          { "acertos": 10, "ep": 731.21 },
+          { "acertos": 11, "ep": 772.79 },
+          { "acertos": 12, "ep": 814.36 },
+          { "acertos": 13, "ep": 855.93 },
+          { "acertos": 14, "ep": 897.51 },
+          { "acertos": 15, "ep": 939.08 }
+        ]
+      },
+      "quimica": {
+        "media": 5.4012,
+        "desvio_padrao": 2.3546,
+        "escores": [
+          { "acertos": 0, "ep": 270.61 },
+          { "acertos": 1, "ep": 313.08 },
+          { "acertos": 2, "ep": 355.55 },
+          { "acertos": 3, "ep": 398.02 },
+          { "acertos": 4, "ep": 440.49 },
+          { "acertos": 5, "ep": 482.96 },
+          { "acertos": 6, "ep": 525.43 },
+          { "acertos": 7, "ep": 567.90 },
+          { "acertos": 8, "ep": 610.37 },
+          { "acertos": 9, "ep": 652.84 },
+          { "acertos": 10, "ep": 695.31 },
+          { "acertos": 11, "ep": 737.78 },
+          { "acertos": 12, "ep": 780.25 },
+          { "acertos": 13, "ep": 822.72 },
+          { "acertos": 14, "ep": 865.19 },
+          { "acertos": 15, "ep": 907.66 }
+        ]
+      },
+      "ingles": {
+        "media": 5.8173,
+        "desvio_padrao": 2.7626,
+        "escores": [
+          { "acertos": 0, "ep": 289.43 },
+          { "acertos": 1, "ep": 325.62 },
+          { "acertos": 2, "ep": 361.82 },
+          { "acertos": 3, "ep": 398.02 },
+          { "acertos": 4, "ep": 434.22 },
+          { "acertos": 5, "ep": 470.42 },
+          { "acertos": 6, "ep": 506.61 },
+          { "acertos": 7, "ep": 542.81 },
+          { "acertos": 8, "ep": 579.01 },
+          { "acertos": 9, "ep": 615.21 },
+          { "acertos": 10, "ep": 651.40 },
+          { "acertos": 11, "ep": 687.60 },
+          { "acertos": 12, "ep": 723.80 },
+          { "acertos": 13, "ep": 760.00 },
+          { "acertos": 14, "ep": 796.20 },
+          { "acertos": 15, "ep": 832.39 }
+        ]
+      },
+      "espanhol": {
+        "media": 5.5619,
+        "desvio_padrao": 2.0791,
+        "escores": []
+      }
+    },
+
+    "estrutura_prova": {
+      "dia_1": {
+        "total_questoes": 55,
+        "distribuicao": [
+          { "questoes": "1-15", "materia": "Lingua Portuguesa" },
+          { "questoes": "16-25", "materia": "Literatura" },
+          { "questoes": "26-35", "materia": "Matematica" },
+          { "questoes": "36-45", "materia": "Geografia" },
+          { "questoes": "46-55", "materia": "Historia" }
+        ]
+      },
+      "dia_2": {
+        "total_questoes": 55,
+        "distribuicao": [
+          { "questoes": "1-15", "materia": "Fisica" },
+          { "questoes": "16-25", "materia": "Quimica" },
+          { "questoes": "26-35", "materia": "Biologia" },
+          { "questoes": "36-45", "materia": "Ingles" },
+          { "questoes": "46-55", "materia": "Espanhol" }
+        ]
+      }
+    }
+  }
+}
