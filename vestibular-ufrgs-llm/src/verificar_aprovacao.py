@@ -169,8 +169,7 @@ def main():
     # Mapear questões
     mapeamento_questoes = mapear_questoes_por_materia(info)
     
-    # ALTERE AQUI A NOTA DA REDAÇÃO (escala 0-10)
-    nota_redacao = 9.98  # Valor atual: 9.98
+    nota_redacao = 9.98
     
     print("=" * 120)
     print("VERIFICAÇÃO DE APROVAÇÃO POR CURSO - VESTIBULAR UFRGS 2024")
